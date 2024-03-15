@@ -1,0 +1,87 @@
+/* Define CSS styles */
+
+/* General styles */
+body {
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  #content-wrap {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  /* Header styles */
+  #header {
+    margin-bottom: 20px;
+  }
+  
+  #header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .msrit {
+    font-family: 'Cooperlate Gothic Light';
+    letter-spacing: 8px;
+    color: #090a0a;
+  }
+  
+  /* Form styles */
+  .mybox {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  /* Button styles */
+  .button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Table styles */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Marquee styles */
+  .marquee {
+    font-size: 18px;
+    color: #2c3e50;
+  }
+  
+  /* Tutorial Div styles */
+  .tutDiv {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
